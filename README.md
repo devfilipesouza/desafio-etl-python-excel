@@ -16,11 +16,6 @@ Dashboard para vizualização insights
 
 
 # Tecnologias Utilizadas 🛠 
-Python
-Pandas
-Pydantic
-Pandera
+Python | Pandas | Pydantic | Pandera
 
-Este projeto é ideal para quem deseja aprender a manipular dados em Excel com Python e automatizar processos de ETL.
-
-Se quiser algum ajuste ou incluir detalhes específicos, só avisar!
+Este projeto para quem deseja aprender a manipular dados em Excel com Python e automatizar processos de ETL.
