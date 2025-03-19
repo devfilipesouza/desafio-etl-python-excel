@@ -1,4 +1,4 @@
-#ETL com Python e Excel 📊
+# ETL com Python e Excel 📊
 Este repositório contém um projeto de ETL (Extract, Transform, Load) utilizando Python para processar dados em Excel de forma dinâmica e ao vivo.
 
 📌 Funcionalidades
